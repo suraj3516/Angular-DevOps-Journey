@@ -1,5 +1,4 @@
 [build]
-base = "angular-devops-journey"
 command = "ng run build"
 publish = "dist/angular-devops-journey/browser"
 
