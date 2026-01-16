@@ -1,7 +1,7 @@
 [build]
 base = "angular-devops-journey"
 command = "ng run build"
-publish = "dist/browser"
+publish = "dist/angular-devops-journey/browser"
 
 [[redirects]]
 from = "/*"
