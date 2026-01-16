@@ -1,5 +1,5 @@
 [build]
-command = "ng run build"
+command = "ng build --configuration production"
 publish = "dist/angular-devops-journey/browser"
 
 [[redirects]]
